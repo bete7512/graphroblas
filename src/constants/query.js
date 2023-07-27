@@ -4,6 +4,7 @@ query MyQuery($username: String = "") {
     id
     username
     password
+    role
   }
 }
 `
